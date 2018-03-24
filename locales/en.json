@@ -1,16 +1,32 @@
 {
-  "links": {
-    "home": "Home",
-    "about": "About",
-    "english": "English version",
-    "french": "French version"
-  },
-  "home": {
-    "title": "Welcome",
-    "introduction": "This is an introduction in English."
-  },
-  "about": {
-    "title": "About",
-    "introduction": "This page is made to give you more informations."
-  }
+    "links": {
+        "home": "Home",
+        "about": "About",
+        "products": "Products",
+        "english": "English version",
+        "portuguese": "Portuguese version"
+    },
+    "home": {
+        "title": "Welcome",
+        "introduction": "This is an introduction in English."
+    },
+    "about": {
+        "title": "About",
+        "introduction": "This page is made to give you more informations."
+    },
+    "product": {
+        "title": "List of Products"
+    },
+    "products": [
+        {
+            "slug": "iphone",
+            "title": "Iphone X",
+            "introduction": "The best smartphone ever."
+        },
+        {
+            "slug": "pixel",
+            "title": "Pixel 2",
+            "introduction": "Google newer smartphone."
+        }
+    ]
 }

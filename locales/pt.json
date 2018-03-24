@@ -1,0 +1,32 @@
+{
+    "links": {
+        "home": "Principal",
+        "about": "Sobre",
+        "products": "Produtos",
+        "english": "Versão em Inglês",
+        "french": "Versão em Português"
+    },
+    "home": {
+        "title": "Bem vindo",
+        "introduction": "Isso é uma introdução em Português."
+    },
+    "about": {
+        "title": "Sobre",
+        "introduction": "Essa página foi feita para dar maiores informações."
+    },
+    "product": {
+        "title": "Lista de Produtos"
+    },
+    "products": [
+        {
+            "slug": "iphone",
+            "title": "Iphone X",
+            "introduction": "O melhor smartphone de todos."
+        },
+        {
+            "slug": "pixel",
+            "title": "Pixel 2",
+            "introduction": "Mais novo smartphone do Google."
+        }
+    ]
+}

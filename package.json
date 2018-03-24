@@ -1,13 +1,21 @@
 {
-  "name": "example-i18n",
-  "dependencies": {
-    "nuxt": "latest",
-    "vue-i18n": "^7.3.2"
-  },
-  "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "start": "nuxt start",
-    "generate": "nuxt generate"
-  }
+    "name": "example-i18n",
+    "version": "0.0.1",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "nuxt": "latest",
+        "vue-i18n": "^7.3.2"
+    },
+    "scripts": {
+        "dev": "nuxt",
+        "build": "nuxt build",
+        "start": "nuxt start",
+        "generate": "nuxt generate"
+    }
 }
